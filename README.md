@@ -1,12 +1,15 @@
-# ilearn
+ilearn angularJs demo
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.16.0.
+This project is generated with yo angular generator version 0.16.0.
 
-## Build & development
+Installation Instuction
 
-Run `grunt` for building and `grunt serve` for preview.
+Install git in your machine
 
-## Testing
+Install Node.js from https://nodejs.org/en/download/
 
-Running `grunt test` will run the unit tests with karma.
+Clone the repo
+
+Run npm install and bower install on the root of project
+
+Run grunt serve for preview.

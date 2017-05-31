@@ -23,6 +23,15 @@ angular
 
     $stateProvider
       .state('home', {
+        url: '',
+        views: {
+          'main-view': {
+            templateUrl: 'views/main.html',
+            controller: 'MainCtrl'
+          }
+        }
+      })
+      .state('root', {
         url: '/',
         views: {
           'main-view': {
