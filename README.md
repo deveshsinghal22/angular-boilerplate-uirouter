@@ -3,7 +3,7 @@
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.16.0.
 
-## Build & development
+## Installation Instuction
 Install git in your machine
 
 Install Node.js from `https://nodejs.org/en/download/`
